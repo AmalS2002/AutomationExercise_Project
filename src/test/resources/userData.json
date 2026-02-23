@@ -1,0 +1,81 @@
+
+{
+  "registerUser": {
+    "name": "Hend",
+    "email": "hend123@gmail.com",
+    "title": "Mrs.",
+    "password": "123",
+    "day": "11",
+    "month": "December",
+    "year": "2002",
+    "firstName": "Hend",
+    "lastName": "Sayed",
+    "companyName": "validation",
+    "address1": "Nasr City",
+    "address2": "Giza",
+    "country": "India",
+    "state": "Cairo",
+    "city": "Nasr City",
+    "zipcode": "11765",
+    "phone": "01024828927"
+  },
+
+  "existingUser": {
+    "name": "Hend",
+    "email": "hend1234@gmail.com"
+  },
+
+
+  "logOutUser": {
+    "email": "hend1234@gmail.com",
+    "password": "1234"
+  },
+
+  "validUser": {
+    "name": "hend",
+    "email": "hend1234@gmail.com",
+    "password": "1234"
+
+  },
+  "inValidUser": {
+    "email": "hend1230@gmail.com",
+    "password": "12340"
+
+  },
+  "contactUs": {
+    "name": "Hend",
+    "email": "hend551033@gmail.com",
+    "subject": "Automation Test",
+    "message": "This is a test message for contact us page",
+    "filePath": "\"C:\\Users\\user1\\Desktop\\testing\""
+  },
+  "products": {
+    "name": "Tshirt"
+
+  },
+  "SubscriptiHomeEmail": {
+    "email": "amal12@gmail.com"
+  },
+  "SubscriptiCartEmail": {
+    "email": "amal12@gmail.com"
+  },
+  "DiscriptionOfOrder": {
+    "Comment": "I want this order tomorrow"
+  },
+  "Payment": {
+    "NameOfCard": "Amal Sayed",
+    "NumOfCard": "1258495585525",
+    "CVC": "321",
+    "ExpiryMonth": "May",
+    "ExpiryYear": "2025"
+  },
+  "ReviewProductForm": {
+    "name": "Amal Sayed",
+    "email": "amal@1234",
+    "reviewText": "Every piece Added"
+  },
+  "ScreenShot": {
+    "fileName": "ScreenshotProject",
+    "path": "D:\\SW_Testing\\Selenium\\myFrame\\AutomationExercise_FinalProject\\ScreenshotProject"
+  }
+}

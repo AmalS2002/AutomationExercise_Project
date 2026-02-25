@@ -7,7 +7,7 @@ This project is an automated testing framework developed to test the website:
 
 The framework is built using Selenium WebDriver, TestNG, and Maven, following the Page Object Model (POM) design pattern to ensure scalability and maintainability.
 
- Tech Stack
+ ->Tech Stack
 
 Java
 
@@ -19,7 +19,7 @@ Maven
 
 Allure Reports
 
- Project Structure
+->Project Structure
 AutomationExercise_Project
 │── src/main/java
 │── src/test/java
@@ -37,7 +37,7 @@ base → WebDriver setup & configuration
 
  How to Run the Project
 
-Clone the repository:
+->Clone the repository:
 
 git clone https://github.com/YourUsername/AutomationExercise_Project.git
 
@@ -50,14 +50,14 @@ or
 
 mvn clean test
 
- Reporting
+ ->Reporting
 
 Allure Report is integrated to generate detailed execution reports.
 
 To generate report:
 
 allure serve allure-results
- Test Scenarios Covered
+ ->Test Scenarios Covered
 
 User Registration
 
@@ -71,8 +71,9 @@ Checkout Process
 
 Form Validation
 
- Author
+ ->Author
 
-Hend Amal
-Automation Testing Engineer
+ Amal Sayed
+QA Engineer
 Faculty of Engineering – Communications & Electronics
+
